@@ -1,0 +1,32 @@
+feeds:
+  # NL / BE / DE / DK
+  - name: nl_hydrogen
+    url: "https://news.google.com/rss/search?q=hydrogen+(Netherlands+OR+Rotterdam+OR+Eemshaven)+when:12m&hl=en&gl=NL&ceid=NL:en"
+  - name: nl_refinery
+    url: "https://news.google.com/rss/search?q=(refinery+OR+petrochemical)+(Netherlands+OR+Pernis+OR+Moerdijk)+when:12m&hl=en&gl=NL&ceid=NL:en"
+  - name: nl_water
+    url: "https://news.google.com/rss/search?q=(WWTP+OR+%22wastewater+treatment%22+OR+%22water+treatment%22)+Netherlands+when:12m&hl=en&gl=NL&ceid=NL:en"
+
+  # España
+  - name: es_hidrogeno
+    url: "https://news.google.com/rss/search?q=(hidrógeno+OR+hidrogeno)+España+when:12m&hl=es-419&gl=ES&ceid=ES:es"
+  - name: es_refineria
+    url: "https://news.google.com/rss/search?q=(refinería+OR+petroquímica)+España+when:12m&hl=es-419&gl=ES&ceid=ES:es"
+  - name: es_aguas
+    url: "https://news.google.com/rss/search?q=(EDAR+OR+depuradora+OR+%22tratamiento+de+aguas%22)+España+when:12m&hl=es-419&gl=ES&ceid=ES:es"
+
+  # Portugal
+  - name: pt_hidrogenio
+    url: "https://news.google.com/rss/search?q=(hidrogénio+OR+hidrogenio)+Portugal+when:12m&hl=pt-PT&gl=PT&ceid=PT:pt"
+  - name: pt_refinaria
+    url: "https://news.google.com/rss/search?q=(refinaria+OR+petroqu%C3%ADmica)+Portugal+when:12m&hl=pt-PT&gl=PT&ceid=PT:pt"
+  - name: pt_aguas
+    url: "https://news.google.com/rss/search?q=(ETAR+OR+ETAP+OR+%22tratamento+de+%C3%A1guas%22)+Portugal+when:12m&hl=pt-PT&gl=PT&ceid=PT:pt"
+
+  # LATAM
+  - name: latam_hidrogeno
+    url: "https://news.google.com/rss/search?q=(hidrógeno+OR+hidrogeno)+(Argentina+OR+Chile+OR+Per%C3%BA+OR+Colombia+OR+M%C3%A9xico+OR+Brasil)+when:12m&hl=es-419&gl=ES&ceid=ES:es"
+  - name: latam_refineria
+    url: "https://news.google.com/rss/search?q=(refiner%C3%ADa+OR+refinaria+OR+petroqu%C3%ADmica)+(Argentina+OR+Chile+OR+Per%C3%BA+OR+Colombia+OR+M%C3%A9xico+OR+Brasil)+when:12m&hl=es-419&gl=ES&ceid=ES:es"
+  - name: latam_aguas
+    url: "https://news.google.com/rss/search?q=(EDAR+OR+ETAR+OR+depuradora+OR+%22tratamiento+de+aguas%22+OR+%22tratamento+de+%C3%A1guas%22)+(Argentina+OR+Chile+OR+Per%C3%BA+OR+Colombia+OR+M%C3%A9xico+OR+Brasil)+when:12m&hl=es-419&gl=ES&ceid=ES:es"
