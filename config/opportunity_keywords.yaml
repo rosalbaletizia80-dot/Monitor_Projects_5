@@ -1,0 +1,16 @@
+categories:
+  Reducción de emisiones:
+    weight: 5
+    keywords: ["emission reduction","reducción de emisiones","decarboniz","descarboniz","flare","torch","venting","methane","metano","NOx","SOx","VOC","electrification","electrificación","low-carbon","net-zero","CCS","CCUS","carbon capture"]
+  Tratamiento / Agua:
+    weight: 4
+    keywords: ["wastewater","effluent","efluente","water treatment","tratamiento de aguas","EDAR","ETAR","ETAP","desalination","desalación","brine","salmuera"]
+  Optimización / Eficiencia:
+    weight: 3
+    keywords: ["optimization","optimización","debottleneck","cuello de botella","revamp","revamping","moderniz","upgrade","retrofit","digitaliz","APC","advanced process control","energy efficiency","eficiencia energética"]
+  Oil & Gas / Químicos (mejoras):
+    weight: 3
+    keywords: ["refinery upgrade","refinería","petrochemical","petroquímica","cracker","hydrotreater","desulfur","desulfuración","turnaround","shutdown","revamp"]
+  Hidrógeno / Nuevas Energías:
+    weight: 4
+    keywords: ["hydrogen","H2","electrolyser","electroliz","ammonia","amoniaco","methanol","metanol","SAF","sustainable aviation fuel","renewable diesel","HVO","biofuel","biodiesel","biorefiner"]
