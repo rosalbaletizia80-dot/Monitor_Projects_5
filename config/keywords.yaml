@@ -1,0 +1,13 @@
+sectors:
+  Hidrógeno: ["hydrogen","hidrógeno","hidrogeno","hidrogénio","H2","electroliz","electrolyser","electrolyzer"]
+  Oil & Gas: ["refinery","refinería","refinaria","petroquímica","petchem","upgrader","cracker","refino","oil"]
+  Gas: ["LNG","GNL","regas","terminal","pipeline","gasoducto","gasoduto"]
+  Químicos: ["chemical","químic","quimic","ammonia","urea","methanol","ethylene","propylene"]
+  Biodiésel: ["biodiesel","biofuel","biocombustible","HVO","SAF","renewable diesel","biorefinería","biorrefinaria"]
+  Tratamiento de Aguas: ["wastewater","water treatment","WWTP","EDAR","ETAR","ETAP","desalin","depuradora"]
+
+project_types: ["new","nuevo","greenfield","ampliación","expansion","upgrade","modernization","revamp"]
+
+regions:
+  countries: ["Netherlands","Belgium","Germany","Denmark","Spain","Portugal","Mexico","Brazil","Argentina","Chile","Peru","Colombia","Uruguay","Ecuador","Venezuela"]
+  cities: ["Rotterdam","Amsterdam","Pernis","Eemshaven","Antwerp","Hamburg","Esbjerg","Madrid","Barcelona","Bilbao","Valencia","Huelva","Cartagena","Lisboa","Porto","Sines","Neuquén","Santiago","Lima","Bogotá","Monterrey","São Paulo","Rio de Janeiro"]
